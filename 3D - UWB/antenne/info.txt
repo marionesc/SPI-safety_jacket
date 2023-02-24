@@ -1,0 +1,6 @@
+
+
+Dessin pour ajour d'un fan 5V : 
+	- A partir de la ref 405FH EBM-PAPST (Code RS : 457-7352)
+	- Insert M3 : Inert fileté laiton M3 (Code RS : 204-0616)
+	
